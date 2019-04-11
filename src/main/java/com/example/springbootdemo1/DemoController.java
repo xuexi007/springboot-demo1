@@ -20,4 +20,16 @@ public class DemoController {
     public void zhangsan(){
         System.out.println("zhangsan");
     }
+
+    //小牛团队，新增分支方法
+    public void xiaoniu(){
+
+        System.out.println("小牛你好");
+    }
+
+    //小牛团队，新增分支方法2
+    public void xiaoniu2(){
+
+        System.out.println("小牛你好2");
+    }
 }
