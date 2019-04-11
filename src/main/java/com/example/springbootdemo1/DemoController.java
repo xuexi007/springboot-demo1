@@ -11,7 +11,7 @@ public class DemoController {
 
         return "Hello JAVA1105!";
     }
-
+//新增方法
     public void addMethod1(){
         System.out.println("this is a method");
     }
