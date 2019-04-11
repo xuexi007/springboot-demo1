@@ -15,4 +15,9 @@ public class DemoController {
     public void addMethod1(){
         System.out.println("this is a method");
     }
+
+    //张三新增方法
+    public void zhangsan(){
+        System.out.println("zhangsan");
+    }
 }
